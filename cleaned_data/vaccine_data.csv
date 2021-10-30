@@ -1,4 +1,4 @@
-Date,Recip_County,Recip_State,Series_Complete_Pop_Pct,Series_Complete_Yes,Series_Complete_12PlusPop_Pct,Series_Complete_18PlusPop_Pct,Series_Complete_65PlusPop_Pct,Completeness_pct,Administered_Dose1_Recip,Administered_Dose1_Pop_Pct,Administered_Dose1_Recip_12PlusPop_Pct,Administered_Dose1_Recip_18PlusPop_Pct,Administered_Dose1_Recip_65PlusPop_Pct
+Date,County,State,Series_Complete_Pop_Pct,Fully_Vaccinated,Fully_Vaccinated_12+,Fully_Vaccinated_18+,Fully_Vaccinated_65+,Completeness_pct,Administered_Dose1_Recip,Partially_Vaccinated,Partially_Vaccinated_12+,Partially_Vaccinated_18+,Partially_Vaccinated_65+
 2021-10-28,Marengo County,AL,49.2,9272,57.7,60.1,78.0,92.6,11422.0,60.6,71.0,73.5,90.0
 2021-10-28,Taylor County,KY,48.6,12516,57.3,59.3,82.4,94.4,14120.0,54.8,64.7,66.8,89.5
 2021-10-28,Jefferson County,AR,37.7,25225,44.0,45.0,61.7,90.3,32370.0,48.4,56.4,57.2,74.0
