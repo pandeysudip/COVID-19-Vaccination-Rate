@@ -1,4 +1,4 @@
-# etl_project
+# COVID-19 Vaccination Rate
 
 ## COVID-19 Vaccination Rate by Age, Race/Ethnicity, Income, and Politics 
 
